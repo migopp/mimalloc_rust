@@ -4,4 +4,3 @@
 [submodule "libmimalloc-sys/c_src/mimalloc/v3"]
 	path = libmimalloc-sys/c_src/mimalloc/v3
 	url = https://github.com/migopp/mimalloc
-    branch = old-v3-patched-req
